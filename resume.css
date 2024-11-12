@@ -138,6 +138,42 @@ hr {
   margin-top: 5%;
 }
 
+#projects-title{
+text-align: center;
+
+}
+.yahtzee-section {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5% 5%;
+  padding: 3%;
+  background-color: #f9f9f9;
+
+}
+
+.yahtzee-description, .yahtzee-screenshot {
+  width: 45%;
+  margin: 2.5%;
+}
+
+.yahtzee-description h2, .yahtzee-description h3 {
+  color: #333;
+}
+
+.yahtzee-description p, .yahtzee-description ul, .yahtzee-description ol {
+  color: #555;
+  line-height: 1.6;
+}
+
+.screenshot-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
 .footer {
   width: 40%;
   margin-left: 7%;
