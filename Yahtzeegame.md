@@ -2,7 +2,7 @@
 
 This project is a web-based implementation of the classic Yahtzee game, built with HTML, CSS, and JavaScript. The game provides an interactive user interface that allows players to roll dice, hold specific dice between rolls, and score points according to traditional Yahtzee rules.
 
-![Yahtzee Game Screenshot](images/yahtzee-screenshot.png)
+![Yahtzee Game Screenshot](images/yahtzee-screenshot-project.png)
 
 ## Features
 - **Interactive Scorecard**: Displays categories like "Ones," "Twos," "Full House," and "Yahtzee."
