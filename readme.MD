@@ -40,7 +40,7 @@ I love building and solving problems through code! My projects include:
   - A calming and professional color palette.
   - Fully responsive layouts for both desktop and mobile.
   - Accessibility-first design.
-- **Check it out**: [GitHub Repo](https://github.com/mahad2111/hospital-triage-app)
+- **Check it out**: [GitHub Repo](https://github.com/mahad2111/emergency-waitlist)
 
 ---
 
@@ -65,4 +65,4 @@ Here’s what I used to build my portfolio:
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahad2111/portfolio.git
+   git clone https://github.com/mahad2111/portfolio-.git
