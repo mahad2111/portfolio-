@@ -138,6 +138,71 @@ hr {
   margin-top: 5%;
 }
 
+
+#projects-title {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 2%;
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+.yahtzee-section, .hospital-triage-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 5% auto;
+  padding: 2%;
+  background-color: var(--background-color);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.yahtzee-description, .hospital-triage-description {
+  width: 60%;
+}
+
+.yahtzee-screenshot, .hospital-triage-screenshot {
+  width: 35%;
+}
+
+.screenshot-img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.yahtzee-description h2, .hospital-triage-description h2 {
+  font-size: 1.8em;
+  color: var(--primary-color);
+  margin-bottom: 1%;
+}
+
+.yahtzee-description h3, .hospital-triage-description h3 {
+  font-size: 1.5em;
+  margin-top: 2%;
+}
+
+.yahtzee-description ul, .hospital-triage-description ul {
+  list-style-type: disc;
+  margin-left: 5%;
+}
+
+.yahtzee-description ol, .hospital-triage-description ol {
+  list-style-type: decimal;
+  margin-left: 5%;
+}
+
+
+.screenshot-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
 .footer {
   width: 40%;
   margin-left: 7%;
